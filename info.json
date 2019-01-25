@@ -1,9 +1,9 @@
 {
 	"name": "AfraidOfTheDark-FRL",
 	"version": "0.16.0",
-	"title": "Afraid Of The Dark - Fast replace lamps",
+	"title": "Afraid Of The Dark - Fast replaceable lights",
 	"author": "steinio",
-	"description": "Just enables fast replace for Vanilla lamps and AotD balloon lamps.",
+	"description": "Just makes Vanilla lamps and AotD balloon lights fast replaceable with each other.",
 	"homepage": "",
 	"contact": "",
 	"factorio_version":"0.16",
