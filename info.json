@@ -1,11 +1,11 @@
 {
 	"name": "AfraidOfTheDark-FRL",
-	"version": "0.16.1",
+	"version": "0.17.0",
 	"title": "Afraid Of The Dark - Fast replaceable lights",
 	"author": "steinio",
 	"description": "Just makes all lamps fast replaceable with each other.",
 	"homepage": "",
 	"contact": "",
-	"factorio_version":"0.16",
-	"dependencies": ["base >= 0.16", "AfraidOfTheDark >= 0.1.20"]
+	"factorio_version":"0.17",
+	"dependencies": ["base >= 0.16", "? AfraidOfTheDark >= 0.1.20"]
 }
